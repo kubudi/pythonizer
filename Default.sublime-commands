@@ -1,0 +1,6 @@
+
+[{
+  "id": "pythonize",
+  "caption": "Check Urls",
+  "command": "check_urls"
+}]
